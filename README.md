@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/zhaozhuoboy/webpack-react-boilerplate.git
+git clone https://github.com/zhouxuanpo/webpack-react-boilerplate.git
 cd react-transform-boilerplate
 npm install
 npm start
